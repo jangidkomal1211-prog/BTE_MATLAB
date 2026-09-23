@@ -3,11 +3,11 @@ This repository contains the MATLAB code and data used to reproduce the figures 
 
 Requirements: MATLAB
 
-Contents
+Contents:
 Fig04_code.m – Main MATLAB program.
 Figures data – To reproduce figures.
 
-How to Use
+How to Use:
 Step 1: Download the Repository
 Download or clone this repository to your computer.
 
@@ -20,5 +20,5 @@ Open Fig04_code.m in MATLAB and run the program. The code reads the required inp
 Step 5: Compare the Results
 The generated figures can be compared with the associated research paper.
 
-Reproducibility
+Reproducibility:
 The MATLAB code and input data provided in this repository are intended to enable reproduction of the figures reported in the associated research paper.
